@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Oliver
+### Hi there I'm Oliver 👋
 
-- 
+- 🧐 Currently looking for a Software Engineering role
 <!--
 **Olys6/olys6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
