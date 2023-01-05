@@ -2,7 +2,6 @@
 
 - 🧐 Currently looking for a Software Engineering role
 - 🌱 I’m currently learning THREE.js
-- 💬 Ask me about the football World Cup 🏆 🇬🇧🇩🇰🇨🇭 
 <!--
 **Olys6/olys6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
