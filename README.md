@@ -1,6 +1,6 @@
 ### Hi, I'm Oliver
 
-Fullstack engineer based in Vaud, Switzerland. I spent three years building and improving Shopify stores and the internal tools around them Corston, where I was promoted to Senior. I like finding the tasks that eat up people's time and making the tools that get rid of them.
+Fullstack engineer based in Vaud, Switzerland. I spent three years building and improving Shopify stores and the internal tools around them at Corston, where I was promoted to Senior. I like finding the tasks that eat up people's time and making the tools that get rid of them.
 
 Right now I'm looking for my next role in Switzerland, ideally at a small, growing team.
 
